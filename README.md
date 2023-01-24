@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arsenikaa
 - 👀 I’m interested in all things data science!
-- 🌱 I’m currently learning Python, R, & SQL.
+- 🌱 I’m proficient in Python, R, & SQL.
 - 💞️ I’m looking to grow my professional and technical skills.
 - 📫 You can reach me via my email @ arsenikamerenkov@gmail.com, or my cell 413-406-4535.
 
